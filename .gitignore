@@ -1,0 +1,23 @@
+# Локальные рабочие материалы и черновики
+/.work/
+/notes_*.md
+/backlog.json
+/*.docx
+/*.pdf
+/.DS_Store
+**/.DS_Store
+
+# Окружение, ключи и данные пользователей
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+data/
+uploads/
+results/
+*.log
